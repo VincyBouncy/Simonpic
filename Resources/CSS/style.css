@@ -10,7 +10,7 @@ body {
   align-items: center;
   font-family: "Helvetica";
   color: white;
-  background-image: url("http://www.toca-ch.com/data/walls/26/22095474.jpg");
+  background-color:black;
 }
 
 span {
@@ -22,7 +22,8 @@ span {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 3rem;
+  color:white;
 }
 
 h4 {
@@ -85,12 +86,11 @@ h4 {
 .feature-text {
   width: 100%;
   height: 6rem;
-  opacity: 0.7;
+  opacity: 1.2;
   background-color: rgba(0, 0, 0, 0.5);
   text-align: center;
+  padding-top:3rem;
 }
-
-
 
 /* Main Content Styling */
 
@@ -106,7 +106,7 @@ h6 {
   color: white;
   opacity: 0.7;
   padding-top: 0.5rem;
-  text-align:left;
+  text-align: left;
   font-size: 2rem;
 }
 
@@ -295,7 +295,7 @@ h6 {
   position: absolute;
   bottom: 8px;
   width: 100%;
-  text-align:left;
+  text-align: left;
 }
 
 /* Number text (1/3 etc) */
