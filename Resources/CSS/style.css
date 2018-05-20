@@ -115,6 +115,7 @@ h4 {
   color: inherit;
   background: none;
   cursor: pointer;
+  height:7rem;
   opacity:0.7;
   padding: 40px 80px;
   display: inline-block;
@@ -128,7 +129,8 @@ h4 {
   -moz-transition: all 0.3s;
   transition: all 0.3s;}
 
-  .btn:hover {background-color: #3e8e41}
+  .btn:hover {background-color: 	#D3D3D3;
+  color: black;}
 
   /* Footer Styles */
   .footer {
@@ -276,7 +278,7 @@ h4 {
     width: auto;
     margin-top: -22px;
     padding: 16px;
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;
@@ -316,7 +318,7 @@ h4 {
     height: 15px;
     width: 15px;
     margin: 0 2px;
-    background-color: #bbb;
+    background-color: black;
     border-radius: 50%;
     display: inline-block;
     transition: white 4s ease-in;
